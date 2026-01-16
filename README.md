@@ -103,14 +103,4 @@ AI Medical Assistant app:
 
 ---
 
-## 📊 GitHub Stats
-
-![Metrics](https://raw.githubusercontent.com/muhamedessamz/muhamedessamz/main/github-metrics.svg)
-
-
-
-
-
----
-
 ⭐ If you like my work, feel free to follow!
