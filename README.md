@@ -59,13 +59,14 @@
 
 ### ⚙️ Back-End
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,express,python,django,flask" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,cpp,python" />
 </p>
 
 ### 🗄️ Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
 
@@ -76,24 +77,7 @@
 
 ---
 
-## 🚀 Featured Projects
 
-### 🛒 Ecommerce Backend (.NET)
-- Clean Architecture / APIs / Security / Logging
-- GitHub: https://github.com/muhamedessamz/Ecommerce
-
-### 🩺 ShurYan (Graduation Project)
-AI Medical Assistant app:
-- Scan medicine box / write medicine name
-- Get active ingredient, dosage, alternatives
-- Frontend built with **React + Tailwind**
-- Team project: Backend + ML + Flutter
-
-### 🤖 IoT & Simulation Projects
-- ESP32 / ESP8266 simulations using Wokwi + MicroPython
-- Sensors: DHT22, MQ-2, LDR, HC-SR04
-
----
 
 ## 🐍 Contribution Snake
 
