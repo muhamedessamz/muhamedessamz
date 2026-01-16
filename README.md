@@ -1,81 +1,101 @@
-  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
-<p>
-  <h1 align="center"><b>Hello there, I'm Sameer Memon👋</b></h1>
+<!-- Profile Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" alt="Matrix" />
 </p>
 
-<p>
-  <h4 align="center"><b><i>"First, solve the problem. Then, write the code."</i></b></h4>
+<h1 align="center">Hi, I'm Mohamed Essam 👋</h1>
+
+<p align="center">
+  <b>Front-End Developer (React + Tailwind)</b> • <b>Learning .NET Backend</b> • CS Student
 </p>
 
 <p align="center">
-    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/sameer1604" />
+  <i>"First, solve the problem. Then, write the code."</i>
 </p>
 
 <p align="center">
-<br>
-
-<a href="https://www.instagram.com/memon.sameer__/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/sameer-memon-0019ab1a9/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="mailto:memonsameer4@gmail.com@gmail.com?subject=Hello%20Sameer"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-<!--<a href="https://kkvanonymous.github.io/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>-->
+  <img src="https://komarev.com/ghpvc/?username=muhamedessamz&label=Profile%20Views&color=0e75b6&style=flat" alt="views" />
 </p>
 
-<br>
+---
 
-<img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
+## 🌟 About Me
 
-### I am a Full Stack Developer
-- 💻 SDE Intern @ <a href="https://pureid.io">PureID </a>
-- 🔭 I’m currently working on my Portfolio Website :grin:
-- 🌱 I’m currently learning Android Development.
-- 👯 I’m looking to collaborate with other Developers :wink:
-- 🥅 2021 Goals: Contribute to Open Source projects
-- 💬 Ask me about anything, I am happy to help :smile:
-- 📬 How to reach me: [Let's get in touch!][linkedin]
-- 🧗 I try to: Go beyond and push the bounds
-- ⚡ Fun fact: I love connecting with different people :raised_hands:
+- 🎓 Computer Science Student  
+- ⚛️ Front-End: React + Tailwind CSS  
+- 🧠 Currently learning: **ASP.NET Core Web API + EF Core**
+- 🔥 Building real projects (Ecommerce / Graduation Project)
+- 💼 Open to: internships / freelance / junior roles
 
-<br>
+---
 
-### Languages and Tools: 
+## 🔗 Connect With Me
 
-<img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<!-- <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<!--<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />-->
-<img align="left" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="35px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
-<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
-<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />
-<br>
-<br>
-<br>
-<br>
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohamedessamz/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:mohamedessamzakariaa@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
+---
 
+## 🧠 Tech Stack
 
-### Github Stats
+### Front-End
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
+</p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=sameer1604&&show_icons=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Sameer's Github Stats" width="60%">
+### Back-End (Learning / Using)
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,sqlserver" />
+</p>
+
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🛒 Ecommerce Backend (.NET)
+- Clean Architecture / APIs / Security / Logging
+- GitHub: https://github.com/muhamedessamz/Ecommerce
+
+### 🩺 ShurYan (Graduation Project)
+AI Medical Assistant app:
+- Scan medicine box / write medicine name
+- Get active ingredient, dosage, alternatives
+- Frontend built with **React + Tailwind**
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameer1604&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Sameer's Top Languages">
+### 🤖 IoT & Simulation Projects
+- ESP32 / ESP8266 simulations using Wokwi + MicroPython
+- Sensors: DHT22, MQ-2, LDR, HC-SR04
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-    NOTE: Top Languages does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub. It's a new feature of github-readme-stats.
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=muhamedessamz&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhamedessamz&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
------
-Credits: [sameer1604](https://github.com/sameer1604)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhamedessamz&theme=tokyonight&hide_border=true" />
+</p>
 
-Last Edited on: 16/07/2021
+---
 
+## 🐍 Contribution Snake
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/muhamedessamz/muhamedessamz/output/snake.svg" alt="snake animation"/>
+</p>
 
+⭐ If you like my work, feel free to follow!
