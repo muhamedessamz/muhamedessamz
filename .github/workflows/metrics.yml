@@ -1,8 +1,8 @@
 name: Metrics
 on:
-  workflow_dispatch:
   schedule:
     - cron: "0 0 * * *"
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -17,5 +17,15 @@ jobs:
           user: muhamedessamz
           filename: github-metrics.svg
           template: classic
-          base: header, activity
+          base: header, activity, community, repositories
           config_timezone: Africa/Cairo
+
+          # More accurate activity
+          plugin_activity: yes
+          plugin_activity_days: 365
+          plugin_activity_filter: all
+          plugin_activity_visibility: all
+
+          # Contributions calendar (closest to GitHub)
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
