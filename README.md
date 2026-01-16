@@ -6,26 +6,12 @@
 <h1 align="center">Hi, I'm Mohamed Essam 👋</h1>
 
 <p align="center">
-  <b>Front-End Developer (React + Tailwind)</b> • <b>Learning .NET Backend</b> • CS Student
+  <b>Full Stack Developer</b> • React • .NET • SQL Server
 </p>
 
 <p align="center">
   <i>"First, solve the problem. Then, write the code."</i>
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=muhamedessamz&label=Profile%20Views&color=0e75b6&style=flat" alt="views" />
-</p>
-
----
-
-## 🌟 About Me
-
-- 🎓 Computer Science Student  
-- ⚛️ Front-End: React + Tailwind CSS  
-- 🧠 Currently learning: **ASP.NET Core Web API + EF Core**
-- 🔥 Building real projects (Ecommerce / Graduation Project)
-- 💼 Open to: internships / freelance / junior roles
 
 ---
 
@@ -42,21 +28,50 @@
 
 ---
 
-## 🧠 Tech Stack
+<table>
+<tr>
+<td width="60%">
 
-### Front-End
+## 🌟 About Me
+
+- 🎓 Computer Science Student  
+- ⚛️ Front-End: React + Tailwind CSS  
+- 🧠 Back-End: ASP.NET Core (Web API) + EF Core  
+- 🔥 Building real projects (Ecommerce / Graduation Project)
+- 💼 Open to: internships / freelance / junior roles
+- 🚀 Interested in: clean architecture, scalable systems, and modern UI
+
+</td>
+<td width="40%" align="center">
+  <img src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" width="280" alt="GIF" />
+</td>
+</tr>
+</table>
+
+---
+
+## 🧠 Tech Stack (Full Stack)
+
+### 🎨 Front-End
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,ts,react,nextjs,redux,vite" />
 </p>
 
-### Back-End (Learning / Using)
+### ⚙️ Back-End
 <p>
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,sqlserver" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,express,python,django,flask" />
 </p>
 
-### Tools
+### 🗄️ Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+</p>
+
+
+### 🧰 Tools & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,postman,linux,vscode,visualstudio" />
 </p>
 
 ---
@@ -72,23 +87,11 @@ AI Medical Assistant app:
 - Scan medicine box / write medicine name
 - Get active ingredient, dosage, alternatives
 - Frontend built with **React + Tailwind**
-  
+- Team project: Backend + ML + Flutter
+
 ### 🤖 IoT & Simulation Projects
 - ESP32 / ESP8266 simulations using Wokwi + MicroPython
 - Sensors: DHT22, MQ-2, LDR, HC-SR04
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=muhamedessamz&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhamedessamz&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhamedessamz&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
@@ -97,5 +100,18 @@ AI Medical Assistant app:
 <p align="center">
   <img src="https://raw.githubusercontent.com/muhamedessamz/muhamedessamz/output/snake.svg" alt="snake animation"/>
 </p>
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=muhamedessamz&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=muhamedessamz&layout=compact&theme=tokyonight&hide_border=true)
+
+
+
+
+---
 
 ⭐ If you like my work, feel free to follow!
