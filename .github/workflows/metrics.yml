@@ -1,8 +1,11 @@
 name: Metrics
 on:
+  workflow_dispatch:
   schedule:
     - cron: "0 0 * * *"
-  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   github-metrics:
@@ -12,6 +15,7 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: muhamedessamz
+          filename: github-metrics.svg
           template: classic
-          base: header, activity, community, repositories
+          base: header, activity
           config_timezone: Africa/Cairo
