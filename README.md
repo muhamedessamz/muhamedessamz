@@ -6,7 +6,7 @@
 <h1 align="center">Hi, I'm Mohamed Essam 👋</h1>
 
 <p align="center">
-  <b>Full Stack Developer</b> • React • .NET • SQL Server
+  <b>Full Stack Developer</b> • ASP.NET • React  
 </p>
 
 <p align="center">
