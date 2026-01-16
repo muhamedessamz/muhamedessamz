@@ -105,9 +105,8 @@ AI Medical Assistant app:
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=muhamedessamz&show_icons=true&theme=tokyonight&hide_border=true)
+![Metrics](https://raw.githubusercontent.com/muhamedessamz/muhamedessamz/main/github-metrics.svg)
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=muhamedessamz&layout=compact&theme=tokyonight&hide_border=true)
 
 
 
